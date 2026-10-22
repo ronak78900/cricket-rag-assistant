@@ -1,0 +1,31 @@
+[project]
+name = "cricket-rag-assistant"
+version = "0.1.0"
+description = "Corrective RAG assistant for cricket: rules with citations, stats via safe SQL, superseded-rule detection"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "langchain-core",
+    "langchain-ollama",
+    "langchain-groq",
+    "langchain-google-genai",
+    "pydantic>=2",
+    "python-dotenv",
+]
+
+# Added in later weeks (install when you reach that day):
+#   Week 1: docling
+#   Week 2: qdrant-client, fastembed
+#   Week 3: langgraph
+#   Week 4: ragas, langfuse, fastapi, uvicorn[standard], sse-starlette
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
