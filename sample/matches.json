@@ -1,0 +1,22 @@
+[
+  {"date": "2026-01-05", "team1": "India", "team2": "Australia", "winner": "India"},
+  {"date": "2026-01-09", "team1": "England", "team2": "Pakistan", "winner": null},
+  {"date": "2026-01-12", "team1": "South Africa", "team2": "New Zealand", "winner": "South Africa"},
+  {"date": "2026-01-16", "team1": "Australia", "team2": "England", "winner": "Australia"},
+  {"date": "2026-01-20", "team1": "Pakistan", "team2": "India", "winner": "India"},
+  {"date": "2026-01-24", "team1": "New Zealand", "team2": "England", "winner": "England"},
+  {"date": "2026-01-28", "team1": "South Africa", "team2": "Australia", "winner": "Australia"},
+  {"date": "2026-02-02", "team1": "India", "team2": "New Zealand", "winner": "New Zealand"},
+  {"date": "2026-02-06", "team1": "Pakistan", "team2": "South Africa", "winner": "Pakistan"},
+  {"date": "2026-02-10", "team1": "England", "team2": "India", "winner": null},
+  {"date": "2026-02-14", "team1": "Australia", "team2": "New Zealand", "winner": "Australia"},
+  {"date": "2026-02-18", "team1": "England", "team2": "South Africa", "winner": "South Africa"},
+  {"date": "2026-02-22", "team1": "India", "team2": "Pakistan", "winner": "Pakistan"},
+  {"date": "2026-02-26", "team1": "New Zealand", "team2": "Pakistan", "winner": "New Zealand"},
+  {"date": "2026-03-02", "team1": "Australia", "team2": "India", "winner": "India"},
+  {"date": "2026-03-06", "team1": "South Africa", "team2": "England", "winner": "England"},
+  {"date": "2026-03-10", "team1": "Pakistan", "team2": "Australia", "winner": null},
+  {"date": "2026-03-14", "team1": "New Zealand", "team2": "South Africa", "winner": "New Zealand"},
+  {"date": "2026-03-18", "team1": "India", "team2": "England", "winner": "India"},
+  {"date": "2026-03-22", "team1": "England", "team2": "Australia", "winner": "Australia"}
+]
